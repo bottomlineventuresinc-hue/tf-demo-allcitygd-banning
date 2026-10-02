@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-077-allcitygd All City Garage Door Company (Wave 16 2026-10-02 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 16 files: see builds/_assets_dl/wave16/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave16/garage-door-partway.jpg : Sectional door partly open (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Garage_door_sliding_up.jpg)
+services-trade.jpg <- wave16/garage-track-inside.jpg : Inside view of a sectional door, track and arm (cropped to remove a brand label) (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Garage_door_opener.jpg)
+people-crew.jpg <- wave16/garage-brick-two.jpg : Brick house with two sectional doors (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Garage_Door.png)
+people-marek.jpg <- wave16/garage-rollup-red.jpg : Red roll-up door, close-up (rawpixel CC0 1.0 https://www.rawpixel.com/image/3297530/free-photo-image-graffiti-shutter-pavement)
+people-tom.jpg <- wave16/gate-farm-metal.jpg : Metal farm gate across a dirt drive (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Hope_Dawn_driveway_gate.jpg)
+coverage-house.jpg <- wave16/garage-ranch-white.jpg : Ranch house with a white sectional door and a wide drive (rawpixel CC0 1.0 https://www.rawpixel.com/image/5922617/photo-image-public-domain-tree-house)
+garage-brown-worn.jpg <- wave16/garage-brown-worn.jpg : Worn brown sectional doors, before new work (flickr CC0 1.0 https://www.flickr.com/photos/43296902@N00/221313233)
+garage-brick-double.jpg <- wave16/garage-brick-double.jpg : Brick house with two closed sectional doors (rawpixel CC0 1.0 https://www.rawpixel.com/image/6081025/north-american-house)
+garage-wood-old.jpg <- wave16/garage-wood-old.jpg : Old wooden doors, worn and split, before new work (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/100818627@N02/28986725082)
+garage-wood-carriage.jpg <- wave16/garage-wood-carriage.jpg : Wood carriage-style doors (stocksnap CC0 1.0 https://stocksnap.io/photo/wood-gate-6D6B2FE72B)
+gate-rust-chain.jpg <- wave16/gate-rust-chain.jpg : Rusty old gate chained shut, before new work (flickr CC0 1.0 https://www.flickr.com/photos/37996646802@N01/8849273077)
+gate-steel-curve.jpg <- wave16/gate-steel-curve.jpg : Curved steel driveway gate (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/7552532@N07/49412954098)
+
+Note: New trade (garage doors and gates): wave16 set shared with hs-078, no photo used on both pages and no person in any photo; one inside view cropped to remove a brand label. Services come from the license class and directory category only, kept generic: garage door and gate installation and repair, and door operators; no brands, no promotional offers, no response-time claims. CEO call: no personal name anywhere, only the business wordmark and 'the owner'. The same-name domain in the packet (a parked page) and the unrelated same-name businesses in the packet are never mentioned or linked, and no domain appears on the page. The second directory phone is NOT used.
